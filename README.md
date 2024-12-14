@@ -15,7 +15,10 @@ I'm a 23-year-old Software Engineering student from Sri Lanka, passionate about 
 
 <hr>
 
+<!--
 ![Sachintha Dasanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21050794&show_icons=true&theme=radical)
+-->
+
 
 <!--
 **Programming Languages:**
