@@ -28,6 +28,7 @@ I'm a 23-year-old Software Engineering student from Sri Lanka, passionate about 
 * JavaScript 
 * C++ 
 * C#
+* C
 
 **Databases:**
 
