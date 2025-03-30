@@ -1,6 +1,6 @@
 ### Hi There! 👋
 
-I'm a 23-year-old Software Engineering graduate from Sri Lanka, passionate about building innovative solutions. 
+I'm a Software Engineering graduate from Sri Lanka, passionate about building innovative solutions. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21050794&label=Profile%20views&color=0e75b6&style=flat" alt="it21050794" /> </p>
 
